@@ -1,0 +1,8 @@
+com\qa\testCases\TC_AddNewCustomerTest_002.class
+com\qa\pagesObjects\EditCustomerPage.class
+com\qa\pagesObjects\AddNewCustomerPage.class
+com\qa\testCases\EditCustomerTest_003.class
+com\qa\pagesObjects\LoginPage.class
+com\qa\testCases\BaseClass.class
+com\qa\testCases\TC_LoginPageTest_001.class
+com\qa\utility\Reporting.class

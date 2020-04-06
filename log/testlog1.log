@@ -1,0 +1,606 @@
+2020-04-02 13:03:46,705 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-02 13:03:50,861 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 13:04:01,027 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 13:04:01,315 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 13:04:01,529 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 13:04:04,527 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 13:04:04,550 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-02 14:13:18,046 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-02 14:13:22,191 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 14:13:33,662 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 14:13:33,857 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 14:13:33,963 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 14:13:36,657 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 14:13:36,671 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-02 14:20:22,294 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-02 14:20:26,437 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 14:20:38,881 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 14:20:39,199 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 14:20:39,300 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 14:20:43,358 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 14:20:43,384 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-02 14:37:21,147 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-02 14:37:25,305 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 14:37:49,535 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 14:37:49,719 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 14:37:49,832 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 14:37:53,395 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 14:37:53,408 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-02 14:59:51,242 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-02 14:59:51,567 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 15:00:24,662 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 15:00:24,791 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 15:00:24,834 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 15:00:40,728 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 15:00:40,744 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-02 15:20:58,488 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-02 15:20:58,814 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 15:21:46,033 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 15:21:46,172 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 15:21:46,251 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 15:21:56,405 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 15:21:56,411 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-02 15:54:07,549 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-02 15:54:07,889 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-02 15:54:40,642 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-02 15:54:40,792 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-02 15:54:40,832 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-02 15:54:47,885 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-02 15:54:47,898 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 09:43:27,938 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 09:43:28,424 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 09:43:57,898 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 09:43:58,065 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-03 09:43:58,108 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-03 09:44:05,511 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-03 09:44:05,528 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 09:44:13,017 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 09:44:13,378 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 09:44:49,744 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 09:46:49,912 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 09:46:50,209 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 09:47:19,406 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 09:50:00,245 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 09:50:00,630 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 09:50:35,830 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 09:51:07,344 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 09:51:10,426 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 09:51:10,519 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 09:51:10,563 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 09:51:10,605 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 09:51:10,657 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 09:51:10,694 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 09:51:10,751 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 09:51:10,804 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 09:51:10,848 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 09:51:10,925 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 09:55:06,899 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 09:55:07,278 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 09:55:58,973 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 09:56:33,889 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 09:56:36,999 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 09:56:41,130 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 09:56:41,204 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 09:56:41,247 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 09:56:41,294 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 09:56:41,329 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 09:56:41,377 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 09:56:41,427 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 09:56:41,457 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 09:56:41,521 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 09:59:38,368 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 09:59:38,670 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 09:59:55,175 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:00:14,603 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:00:17,689 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:11:54,723 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:11:55,023 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:13:35,919 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:14:50,194 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:14:52,278 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:14:54,436 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:14:54,487 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:14:54,528 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:14:54,579 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:14:54,614 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:14:54,670 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:14:54,723 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:14:54,759 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:14:54,833 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:16:06,100 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:16:06,400 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:17:49,844 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:18:42,459 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:18:44,550 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:18:49,699 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:18:49,780 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:18:49,826 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:18:49,876 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:18:49,909 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:18:49,959 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:18:50,001 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:18:50,034 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:18:50,099 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:22:47,419 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:22:47,705 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:23:26,853 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:24:00,363 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:24:02,467 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:24:02,715 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:24:05,838 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:24:05,917 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:24:05,965 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:24:06,008 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:24:06,051 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:24:06,092 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:24:06,138 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:24:06,174 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:24:06,228 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:26:17,108 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:26:17,386 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:26:44,588 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:28:05,158 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:28:07,269 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:28:07,531 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:28:15,672 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:28:15,748 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:28:15,802 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:28:15,844 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:28:15,884 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:28:15,930 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:28:15,979 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:28:16,017 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:28:16,065 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:30:18,820 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:30:19,184 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:31:10,770 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:34:19,569 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:34:19,861 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:34:53,843 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:35:21,378 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:35:21,419 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:35:21,659 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:35:26,796 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:35:26,868 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:35:26,933 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:35:26,974 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:35:27,020 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:35:27,057 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:35:27,102 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:35:27,141 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:35:27,193 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:36:45,862 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:36:46,169 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:37:28,859 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:38:00,495 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:38:00,566 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:38:00,809 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:38:07,926 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:38:07,996 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:38:08,068 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:38:08,104 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:38:08,145 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:38:08,187 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:38:08,232 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:38:08,267 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:38:08,319 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:44:16,697 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:44:16,995 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:44:44,304 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:45:08,210 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:45:08,304 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:45:08,571 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:45:15,705 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:45:15,780 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:45:15,843 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:45:15,886 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:45:15,921 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:45:15,967 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:45:16,014 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:45:16,047 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:45:16,096 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:48:20,321 [main] INFO GuruAutomationProject - Firefox Browser Launched..
+2020-04-03 10:48:20,624 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:49:02,402 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:49:26,973 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:49:27,049 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:49:27,299 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:49:34,428 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:49:34,524 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:49:34,600 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:49:34,646 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:49:34,678 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:49:34,727 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:49:34,772 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:49:34,810 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:49:34,864 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:51:53,329 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 10:51:57,484 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:52:07,062 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:52:14,917 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:52:15,024 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:52:15,101 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:52:20,314 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:52:20,496 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:52:20,607 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:52:20,718 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:52:20,815 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:52:20,926 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:52:21,086 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:52:21,197 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:52:24,668 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:55:57,059 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 10:56:01,224 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:56:11,151 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:56:18,493 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:56:18,716 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:56:18,826 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:56:24,080 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:56:24,272 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:56:24,362 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:56:24,473 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:56:24,572 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:56:24,683 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:56:24,842 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:56:24,947 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:56:25,559 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:57:18,588 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 10:57:22,743 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:57:29,834 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:57:38,300 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:57:38,455 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:57:38,560 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:57:43,781 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:57:43,979 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:57:44,121 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:57:44,254 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:57:44,363 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:57:44,466 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:57:44,625 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:57:44,730 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:57:47,036 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 10:59:05,724 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 10:59:09,861 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 10:59:18,738 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 10:59:26,735 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 10:59:26,955 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 10:59:27,057 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 10:59:32,307 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 10:59:32,511 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 10:59:32,616 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 10:59:32,723 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 10:59:32,836 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 10:59:32,948 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 10:59:33,110 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 10:59:33,217 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 10:59:35,397 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 11:00:44,628 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 11:00:48,788 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 11:00:55,564 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 11:01:02,846 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 11:01:03,011 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 11:01:03,141 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 11:01:08,370 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 11:01:08,578 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 11:01:08,681 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 11:01:08,827 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 11:01:08,921 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 11:01:09,032 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 11:01:09,204 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 11:01:09,325 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 11:01:11,803 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 11:02:48,695 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 11:02:52,859 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 11:02:58,897 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 11:03:06,284 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 11:03:06,394 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 11:03:06,495 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 11:03:11,738 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 11:03:11,848 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 11:03:11,956 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 11:03:12,104 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 11:03:12,201 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 11:03:12,316 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 11:03:12,483 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 11:03:12,600 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 11:03:14,841 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 11:03:14,855 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-03 12:21:08,295 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 12:21:12,455 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 12:21:19,387 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 12:21:19,560 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-03 12:21:19,762 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-03 12:21:25,767 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-03 12:21:25,783 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 12:21:30,990 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 12:21:35,130 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 12:21:41,360 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 12:21:47,818 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 12:21:47,916 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 12:21:47,995 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 12:21:53,193 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 12:21:53,297 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 12:21:53,407 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 12:21:53,538 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 12:21:53,626 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 12:21:53,743 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 12:21:53,898 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 12:21:53,995 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 12:21:56,040 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 12:21:56,052 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-03 14:46:12,491 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 14:46:16,648 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 14:46:32,413 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 14:46:32,594 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-03 14:46:32,694 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-03 14:46:35,307 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-03 14:46:35,332 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 14:46:40,715 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 14:46:44,873 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 14:47:02,149 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 14:47:13,588 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 14:47:13,737 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 14:47:13,878 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 14:47:19,084 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 14:47:19,269 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 14:47:19,369 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 14:47:19,489 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 14:47:19,585 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 14:47:19,743 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 14:47:19,917 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 14:47:20,023 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 14:47:21,713 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 14:51:18,232 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 14:51:22,401 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 14:51:36,670 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 14:51:36,858 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-03 14:51:36,965 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-03 14:51:39,908 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-03 14:51:39,939 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 14:51:45,482 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 14:51:49,638 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 14:52:02,932 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 14:52:14,675 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 14:52:14,836 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 14:52:14,933 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 14:52:20,132 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 14:52:20,268 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 14:52:20,379 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 14:52:20,499 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 14:52:20,602 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 14:52:20,747 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 14:52:20,928 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 14:52:21,068 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 14:52:23,094 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 14:54:48,488 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 14:54:52,641 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 14:55:08,123 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 14:55:08,483 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-03 14:55:08,779 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-03 14:55:48,411 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-03 14:55:48,440 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 14:55:54,040 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 14:55:58,212 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 14:56:54,899 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 14:57:15,459 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 14:57:15,563 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 14:57:15,651 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 14:57:20,849 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 14:57:21,067 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 14:57:21,209 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 14:57:21,329 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 14:57:21,421 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 14:57:21,531 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 14:57:21,691 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 14:57:21,812 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 14:57:37,330 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 14:57:40,339 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-03 15:13:27,943 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 15:13:32,093 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 15:13:46,609 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 15:13:46,808 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-03 15:13:46,912 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-03 15:13:49,493 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-03 15:13:49,508 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-03 15:13:56,028 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-03 15:14:00,169 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-03 15:14:15,289 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-03 15:14:24,054 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-03 15:14:24,306 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-03 15:14:24,526 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-03 15:14:29,719 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-03 15:14:29,928 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-03 15:14:30,026 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-03 15:14:30,129 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-03 15:14:30,224 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-03 15:14:30,332 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-03 15:14:30,494 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-03 15:14:30,593 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-03 15:14:34,458 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-03 15:14:37,475 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-04 10:19:01,111 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-04 10:19:05,793 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-04 10:19:22,331 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-04 10:19:22,906 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-04 10:19:23,019 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-04 10:19:26,649 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-04 10:19:26,663 [main] INFO GuruAutomationProject - TC_LoginPageTest_001 Passed..
+2020-04-04 10:19:33,083 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-04 10:19:37,636 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-04 10:19:52,527 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-04 10:20:32,098 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-04 10:24:14,235 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-04 10:24:18,920 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-04 10:24:27,278 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-04 10:25:07,302 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-04 10:27:13,485 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-04 10:27:18,271 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-04 10:27:51,981 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-04 10:27:56,594 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-04 10:28:02,238 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-04 10:28:09,411 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-04 10:28:12,631 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-04 10:28:12,794 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-04 10:28:18,062 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-04 10:28:18,212 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-04 10:28:18,340 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-04 10:28:18,443 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-04 10:28:18,535 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-04 10:28:18,643 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-04 10:28:18,790 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-04 10:28:18,886 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-04 10:28:21,164 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-05 11:04:04,637 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-05 11:04:08,927 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-05 11:04:17,521 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-05 15:27:22,412 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-05 15:27:26,580 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-05 15:27:34,277 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-05 15:27:44,928 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-05 15:27:48,042 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-05 15:27:48,146 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-05 15:27:53,361 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-05 15:27:53,470 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-05 15:27:53,613 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-05 15:27:53,891 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-05 15:27:54,039 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-05 15:27:54,259 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-05 15:27:54,424 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-05 15:27:54,549 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-05 15:27:57,880 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-05 15:28:00,889 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-05 15:39:12,403 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-05 15:39:17,108 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-05 15:39:29,035 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-05 15:40:10,635 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-05 15:57:40,442 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-05 15:57:45,012 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-05 15:57:53,467 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-05 15:58:06,796 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-05 15:58:11,952 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-05 15:58:12,102 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-05 15:58:17,331 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-05 15:58:17,417 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-05 15:58:17,505 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-05 15:58:17,619 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-05 15:58:17,731 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-05 15:58:17,853 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-05 15:58:18,004 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-05 15:58:18,114 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-05 15:58:21,074 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-05 15:58:24,092 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-06 11:52:07,447 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 11:52:11,717 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 11:52:40,611 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 11:52:49,581 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-06 11:52:54,734 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-06 11:52:54,816 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-06 11:52:59,996 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-06 11:53:00,096 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-06 11:53:00,192 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-06 11:53:00,301 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-06 11:53:00,390 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-06 11:53:00,493 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-06 11:53:00,640 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-06 11:53:00,731 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-06 11:53:03,061 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-06 11:53:06,080 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-06 12:36:16,097 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 12:36:20,244 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 12:38:40,648 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 12:39:08,105 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 12:39:12,137 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 12:39:40,497 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 12:39:49,095 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-06 12:39:54,227 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-06 12:39:54,307 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-06 12:39:59,486 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-06 12:39:59,621 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-06 12:39:59,721 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-06 12:39:59,827 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-06 12:39:59,919 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-06 12:40:00,030 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-06 12:40:00,200 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-06 12:40:00,295 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-06 12:40:05,366 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-06 12:40:10,011 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-06 12:40:15,344 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 12:40:19,490 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 12:40:51,452 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 12:40:51,618 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-06 12:40:51,717 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-06 12:40:58,774 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-06 14:52:49,295 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 14:52:53,431 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 14:53:01,610 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 14:53:10,977 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-06 14:53:16,094 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-06 14:53:16,176 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-06 14:53:21,380 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-06 14:53:21,467 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-06 14:53:21,582 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-06 14:53:21,689 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-06 14:53:21,783 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-06 14:53:21,886 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-06 14:53:22,049 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-06 14:53:22,147 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-06 14:53:24,847 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-06 14:53:27,901 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-06 14:53:33,315 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 14:53:37,452 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 14:53:46,709 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 14:53:46,848 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-06 14:53:46,959 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-06 14:53:50,819 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-06 15:00:03,346 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 15:00:07,496 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 15:00:17,920 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 15:00:27,994 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-06 15:00:33,116 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-06 15:00:33,206 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-06 15:00:38,392 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-06 15:00:38,475 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-06 15:00:38,587 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-06 15:00:38,746 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-06 15:00:38,846 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-06 15:00:38,952 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-06 15:00:39,104 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-06 15:00:39,197 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-06 15:00:41,976 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-06 15:00:45,021 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-06 15:00:50,281 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 15:00:54,430 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 15:01:04,591 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 15:01:04,737 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-06 15:01:04,835 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-06 15:01:08,155 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-06 15:01:12,147 [main] INFO GuruAutomationProject - Edit Customer Link Clicked..
+2020-04-06 15:01:15,259 [main] INFO GuruAutomationProject - Entered Customer ID..
+2020-04-06 15:12:41,012 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 15:12:45,165 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 15:12:59,779 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 15:13:26,939 [main] INFO GuruAutomationProject - New Customer Link Clicked..
+2020-04-06 15:13:32,071 [main] INFO GuruAutomationProject - Customer Name  Entered..
+2020-04-06 15:13:32,154 [main] INFO GuruAutomationProject - Gender Selected..
+2020-04-06 15:13:37,337 [main] INFO GuruAutomationProject - Customer DOB Entered..
+2020-04-06 15:13:37,458 [main] INFO GuruAutomationProject - Customers Address Entered..
+2020-04-06 15:13:37,569 [main] INFO GuruAutomationProject - Customers City Entered..
+2020-04-06 15:13:37,692 [main] INFO GuruAutomationProject - Customers State Entered..
+2020-04-06 15:13:37,784 [main] INFO GuruAutomationProject - Customers Pin Entered..
+2020-04-06 15:13:37,891 [main] INFO GuruAutomationProject - Customers Mobile Number Entered..
+2020-04-06 15:13:38,042 [main] INFO GuruAutomationProject - Customers Email ID Entered..
+2020-04-06 15:13:38,141 [main] INFO GuruAutomationProject - Customers Password Entered..
+2020-04-06 15:13:41,019 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-06 15:13:44,077 [main] INFO GuruAutomationProject - AddNewCustomerTest is passed
+2020-04-06 15:13:49,506 [main] INFO GuruAutomationProject - Chrome Browser Launched..
+2020-04-06 15:13:53,647 [main] INFO GuruAutomationProject - Browser Window Maximized..
+2020-04-06 15:14:00,158 [main] INFO GuruAutomationProject - URL Launched..
+2020-04-06 15:14:00,307 [main] INFO GuruAutomationProject - Entered Username..
+2020-04-06 15:14:00,413 [main] INFO GuruAutomationProject - Entered Password..
+2020-04-06 15:14:03,157 [main] INFO GuruAutomationProject - Login Button Clicked..
+2020-04-06 15:14:04,772 [main] INFO GuruAutomationProject - Edit Customer Link Clicked..
+2020-04-06 15:14:07,907 [main] INFO GuruAutomationProject - Entered Customer ID..
+2020-04-06 15:14:09,820 [main] INFO GuruAutomationProject - Submit Button Clicked..
+2020-04-06 15:14:09,934 [main] INFO GuruAutomationProject - Uodated Mobile Number..
+2020-04-06 15:14:13,299 [main] INFO GuruAutomationProject - Submit button clicked after updating details..
+2020-04-06 15:14:16,318 [main] INFO GuruAutomationProject - editCustomerDetailsTest passed..
